@@ -1,0 +1,10 @@
+package com.javacodes;
+
+public class MyClientImpl2 implements MyClient {
+
+	@Override
+	public void doSomething() {
+
+	}
+
+}
